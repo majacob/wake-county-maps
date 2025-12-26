@@ -3,16 +3,98 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.6382, 35.7796] },
       "properties": {
-        "name": "Athens Drive Magnet High",
-        "magnet": true,
+        "name": "Traditional Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.6400, 35.7800] },
+      "properties": {
+        "name": "Year-Round Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.6420, 35.7810] },
+      "properties": {
+        "name": "Magnet Middle School",
+        "level": "Middle",
         "traditional": false,
         "year_round": false,
+        "magnet": true,
         "charter": false
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-78.6846, 35.7596]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.6440, 35.7820] },
+      "properties": {
+        "name": "Charter Middle School",
+        "level": "Middle",
+        "traditional": false,
+        "year_round": false,
+        "magnet": false,
+        "charter": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.6460, 35.7830] },
+      "properties": {
+        "name": "Traditional High School",
+        "level": "High",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.6480, 35.7840] },
+      "properties": {
+        "name": "Year-Round High School",
+        "level": "High",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.6500, 35.7850] },
+      "properties": {
+        "name": "Magnet + Year-Round Elementary",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.6520, 35.7860] },
+      "properties": {
+        "name": "Charter + Year-Round Middle",
+        "level": "Middle",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": true
       }
     }
   ]
