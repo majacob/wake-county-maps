@@ -37,7 +37,7 @@ map.on('load', () => {
     }
   });
 });
-map.on('click', 'schools-test', (e) => {
+map.on('click', 'magnet-schools', (e) => {
   const props = e.features[0].properties;
 
   new mapboxgl.Popup()
@@ -51,10 +51,10 @@ map.on('click', 'schools-test', (e) => {
     .addTo(map);
 });
 
-map.on('mouseenter', 'schools-test', () => {
+map.on('mouseenter', 'magnet-schools', () => {
   map.getCanvas().style.cursor = 'pointer';
 });
-map.on('mouseleave', 'schools-test', () => {
+map.on('mouseleave', 'magnet-schools', () => {
   map.getCanvas().style.cursor = '';
 });
 
