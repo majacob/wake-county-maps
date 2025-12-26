@@ -37,4 +37,24 @@ map.on('load', () => {
     }
   });
 });
+map.on('click', 'schools-test', (e) => {
+  const props = e.features[0].properties;
+
+  new mapboxgl.Popup()
+    .setLngLat(e.lngLat)
+    .setHTML(`
+      <strong>${props.name}</strong><br/>
+      Magnet: ${props.magnet}<br/>
+      Charter: ${props.charter}<br/>
+      Year-round: ${props.year_round}
+    `)
+    .addTo(map);
+});
+
+map.on('mouseenter', 'schools-test', () => {
+  map.getCanvas().style.cursor = 'pointer';
+});
+map.on('mouseleave', 'schools-test', () => {
+  map.getCanvas().style.cursor = '';
+});
 
