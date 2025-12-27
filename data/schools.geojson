@@ -3,9 +3,105 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-78.6382, 35.7796] },
+      "geometry": { "type": "Point", "coordinates": [-78.65148437, 35.78478544] },
       "properties": {
-        "name": "Traditional Elementary School",
+        "name": "Wiley Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.64277515, 35.76742953] },
+      "properties": {
+        "name": "Washington Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.64773789, 35.78984242] },
+      "properties": {
+        "name": "Partnership Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.62293099, 35.77486445] },
+      "properties": {
+        "name": "Hunter Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.62278665, 35.79626273] },
+      "properties": {
+        "name": "Conn Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.64483411, 35.80246352] },
+      "properties": {
+        "name": "Underwood Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.60632555, 35.77346112] },
+      "properties": {
+        "name": "Poe Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.62485064, 35.75414696] },
+      "properties": {
+        "name": "Fuller Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.67529362, 35.79370845] },
+      "properties": {
+        "name": "Fred A Olds Elementary School",
         "level": "Elementary",
         "traditional": true,
         "year_round": false,
@@ -15,21 +111,153 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-78.6400, 35.7800] },
+      "geometry": { "type": "Point", "coordinates": [-78.63298966, 35.81473464] },
       "properties": {
-        "name": "Year-Round Elementary School",
+        "name": "Joyner Magnet Elementary School",
         "level": "Elementary",
         "traditional": false,
-        "year_round": true,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.5865114, 35.76606733] },
+      "properties": {
+        "name": "Bugg Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.65082829, 35.82571975] },
+      "properties": {
+        "name": "Aldert Root Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
         "magnet": false,
         "charter": false
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-78.6420, 35.7810] },
+      "geometry": { "type": "Point", "coordinates": [-78.67943515, 35.81411369] },
       "properties": {
-        "name": "Magnet Middle School",
+        "name": "Lacy Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.59695393, 35.82999985] },
+      "properties": {
+        "name": "Brentwood Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.62932823, 35.8406726] },
+      "properties": {
+        "name": "Douglas Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.57480787, 35.82122091] },
+      "properties": {
+        "name": "Wilburn Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.65438264, 35.84456993] },
+      "properties": {
+        "name": "Brooks Museums Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.63499283, 35.71305541] },
+      "properties": {
+        "name": "Swift Creek Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.65338457, 35.71213018] },
+      "properties": {
+        "name": "Smith Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.70150359, 35.77499003] },
+      "properties": {
+        "name": "Combs Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.58799508, 35.74553095] },
+      "properties": {
+        "name": "Walnut Creek Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.63482172, 35.77658379] },
+      "properties": {
+        "name": "Moore Square Magnet Middle School",
         "level": "Middle",
         "traditional": false,
         "year_round": false,
@@ -39,21 +267,57 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-78.6440, 35.7820] },
+      "geometry": { "type": "Point", "coordinates": [-78.6265665, 35.77231371] },
       "properties": {
-        "name": "Charter Middle School",
+        "name": "Ligon Magnet Middle School",
         "level": "Middle",
         "traditional": false,
         "year_round": false,
-        "magnet": false,
-        "charter": true
+        "magnet": true,
+        "charter": false
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-78.6460, 35.7830] },
+      "geometry": { "type": "Point", "coordinates": [-78.62945903, 35.77824279] },
       "properties": {
-        "name": "Traditional High School",
+        "name": "Wake Young Men's Leadership Academy",
+        "level": "High",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.65168285, 35.78967089] },
+      "properties": {
+        "name": "Broughton Magnet High School",
+        "level": "High",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.60386554, 35.78404141] },
+      "properties": {
+        "name": "Enloe Magnet High School",
+        "level": "High",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.61305346, 35.76164555] },
+      "properties": {
+        "name": "Central Wake High School",
         "level": "High",
         "traditional": true,
         "year_round": false,
@@ -63,40 +327,363 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-78.6480, 35.7840] },
+      "geometry": { "type": "Point", "coordinates": [-78.60411808, 35.74546875] },
       "properties": {
-        "name": "Year-Round High School",
+        "name": "Southeast Raleigh Magnet High School",
         "level": "High",
         "traditional": false,
-        "year_round": true,
-        "magnet": false,
-        "charter": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-78.6500, 35.7850] },
-      "properties": {
-        "name": "Magnet + Year-Round Elementary",
-        "level": "Elementary",
-        "traditional": false,
-        "year_round": true,
+        "year_round": false,
         "magnet": true,
         "charter": false
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-78.6520, 35.7860] },
+      "geometry": { "type": "Point", "coordinates": [-78.58443513, 35.78489239] },
       "properties": {
-        "name": "Charter + Year-Round Middle",
-        "level": "Middle",
+        "name": "Wake Early College of Health and Sciences",
+        "level": "High",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.7106642, 35.76824027] },
+      "properties": {
+        "name": "Athens Drive Magnet High School",
+        "level": "High",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.63529467, 35.71070099] },
+      "properties": {
+        "name": "Garner Magnet High School",
+        "level": "High",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.64695852, 35.86095873] },
+      "properties": {
+        "name": "Sanderson High School",
+        "level": "High",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.85985794, 35.80278817] },
+      "properties": {
+        "name": "Green Hope Elementary School",
+        "level": "Elementary",
         "traditional": false,
         "year_round": true,
         "magnet": false,
-        "charter": true
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.77505898, 35.75794932] },
+      "properties": {
+        "name": "Farmington Woods Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.89655009, 35.81030256] },
+      "properties": {
+        "name": "Mills Park Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.78146226, 35.78189341] },
+      "properties": {
+        "name": "Cary Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.8563571, 35.72167195] },
+      "properties": {
+        "name": "Apex Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.58646457, 35.70794917] },
+      "properties": {
+        "name": "East Garner Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.72839107, 35.5933875] },
+      "properties": {
+        "name": "Willow Springs Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.828101, 35.6557037] },
+      "properties": {
+        "name": "Holly Springs Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.85067225, 35.77947016] },
+      "properties": {
+        "name": "Davis Drive Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.72316448, 35.75170349] },
+      "properties": {
+        "name": "Dillard Drive Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.71018702, 35.63148346] },
+      "properties": {
+        "name": "Banks Road Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.51321871, 35.9762099] },
+      "properties": {
+        "name": "Wake Forest iSTEM Magnet Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": false,
+        "magnet": true,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.48210777, 35.81047177] },
+      "properties": {
+        "name": "Forestville Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.51204504, 35.8737529] },
+      "properties": {
+        "name": "Harris Creek Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.42980616, 35.76168629] },
+      "properties": {
+        "name": "Lake Myra Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.55152981, 35.73188345] },
+      "properties": {
+        "name": "Barwell Road Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.84561846, 35.81097854] },
+      "properties": {
+        "name": "Morrisville Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.83952435, 35.83653057] },
+      "properties": {
+        "name": "Cedar Fork Elementary School",
+        "level": "Elementary",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.84827509, 35.72579942] },
+      "properties": {
+        "name": "Apex Middle School",
+        "level": "Middle",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.90788523, 35.70112352] },
+      "properties": {
+        "name": "Apex Friendship Middle School",
+        "level": "Middle",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.8380976, 35.7452719] },
+      "properties": {
+        "name": "Apex High School",
+        "level": "High",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.910794, 35.7018502] },
+      "properties": {
+        "name": "Apex Friendship High School",
+        "level": "High",
+        "traditional": true,
+        "year_round": false,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.57891457, 35.90262108] },
+      "properties": {
+        "name": "Abbotts Creek Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.7614187, 35.77694498] },
+      "properties": {
+        "name": "Adams Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.89915551, 35.85935854] },
+      "properties": {
+        "name": "Alston Ridge Elementary School",
+        "level": "Elementary",
+        "traditional": false,
+        "year_round": true,
+        "magnet": false,
+        "charter": false
       }
     }
   ]
 }
-
